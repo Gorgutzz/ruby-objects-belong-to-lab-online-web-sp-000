@@ -5,4 +5,5 @@ class artist
     @name = name
     @genre = genre
   end
+
 end
